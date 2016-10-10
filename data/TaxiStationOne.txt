@@ -1,0 +1,4 @@
+TestTaxiStation
+truckbus,1,mercedes,black,50000,13,4,1000,2
+taxi,2,mercedes,yellow,40000,7,4,5000,true,true
+minibus,3,mercedes,orange,60000,30,2,1000,2,true
